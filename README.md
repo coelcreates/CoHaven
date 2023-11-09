@@ -1,2 +1,6 @@
 # CoHaven
 Website build for a yoga-pilates studio
+
+# Product Vision
+
+See the [Product Ideas Brainstorming](docs/product-ideas-brainstorming.md) document.
