@@ -3,15 +3,27 @@
 The kind of product we want to build (rough ideas):
 
 + studio for yoga and pilates classes
+
 + scheduler component
-+ user registration area
++ *user registration area
 	+  members / class participants / prospective clients
-+ class catalogue / calendar / programme
-	+ (deadline)
-	+ venue, place (could be virtual)
-	+ pricing
++ *class catalogue / calendar / programme
+	+ *(deadline)
+	+ *venue, place (could be virtual)
+	+ *pricing
 		+ free
 		+ range (fee)
-	+ instructors
-	+ recordings for past (virtual?) classes
-+ small merchandise shop (coffee mugs, yoga mats, ...)
+	+ *instructors
+	+ _recordings for past (virtual?) classes
++ _small merchandise shop (coffee mugs, yoga mats, ...)
++ users
+	+ guest (non-registered)
+	+ registered users
+	+ content administrators
++ * frontend (user)
++ _backend (content admin)
++ * user administration
+
++ responsive design
+	+ * mobile first
+	+ desktop/tablet
