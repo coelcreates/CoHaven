@@ -1,4 +1,4 @@
-const RecordedClasses = [
+const Videos = [
     {
         name: 'coHaven-intro',
         title: 'Welcome To CoHaven.',
@@ -22,4 +22,4 @@ const RecordedClasses = [
     },
 ];
 
-export default RecordedClasses;
+export default Videos;

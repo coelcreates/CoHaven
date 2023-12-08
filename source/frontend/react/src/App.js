@@ -4,7 +4,8 @@ import NavBar from './navbar';
 import HomePage from './pages/homepage';
 import AboutUs from './pages/aboutus';
 import Schedule from './pages/schedule';
-import ScheduleList from './pages/recordedclasseslist';
+import VirtualHaven from './pages/virtualHaven';
+import Videos from './pages/videos';
 import Shop from './pages/shop';
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/aboutus" element={<AboutUs />} />
           <Route path="/schedule" element={<Schedule />} />
-          <Route path="/virtualHaven" element={<virtualHaven />} />
+          <Route path="/virtualHaven/:videoId" element={<VirtualHaven />} />
           <Route path="/shop" element={<Shop />} />
         </Routes>
       </div>
